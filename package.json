@@ -35,7 +35,8 @@
     "react-spinners": "^0.13.8",
     "tailwind": "^4.0.0",
     "typescript": "5.2.2",
-    "world-countries": "^4.0.0"
+    "world-countries": "^4.0.0",
+    "zustand": "^4.4.1"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.0",
